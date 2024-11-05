@@ -5,7 +5,8 @@
 }
 
 body {
-    background: radial-gradient(circle at top, #ff4c4c, #1c1c1c 80%);
+    background: url('img/bg-desktop.webp') no-repeat center center;
+    background-size: cover;
     font-family: 'Bai Jamjuree', sans-serif;
     color: var(--text-color);
     margin: 0;
