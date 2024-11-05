@@ -47,7 +47,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Tecnologia',
+    'Programação',
     'O que significa HTML?',
     'HTML significa HyperText Markup Language, a linguagem padrão para criar páginas web'
 )
@@ -65,7 +65,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Esportes',
+    'Educação Física',
     'Em qual esporte se utiliza uma raquete e uma bola pequena?',
     'O tênis usa raquete e uma bola pequena'
 )
