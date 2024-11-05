@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #1c1c1c 40%, #ff4c4c);
+    background: radial-gradient(circle at top, #ff4c4c, #1c1c1c 80%);
     font-family: 'Bai Jamjuree', sans-serif;
     color: var(--text-color);
     margin: 0;
